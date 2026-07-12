@@ -193,3 +193,68 @@ footer{color:rgb(127, 127, 240);
 font-size:20px;
 text-align:center;
 }
+
+/*CSS part for COURSES.HTML*/
+
+
+
+.nyama{font-size:50px;
+    color:gold;
+    font-style:italic;
+    text-align: center;
+    padding:12px 24px;
+
+}
+
+.iron{display:grid;
+grid-template-columns:repeat(4, 4fr);
+align-items:center;
+padding:0px 30px;
+align-items: center;
+
+}
+.alpha{padding:20px 12px;}
+
+.wanner img{width:150px;
+    padding:20px 20px;
+}
+.grit{background-color:rgb(10, 17, 31);
+border-radius:30px;
+margin:10px;
+padding:10px 18px;
+border:0.4px solid white;
+}
+
+.gold{color:gold;
+text-align:center;
+font-style:italic;
+font-size:25px;
+font-weight:bold;
+}
+.neymar{background-color: rgb(16, 24, 40);
+    padding:20px 15px;
+    height:300px;
+    align-items: center;
+     display:grid;
+    grid-template-rows:repeat(1fr, 1fr);
+   
+}
+.direction{display:flex;
+    flex-direction: column;
+    padding-top:30px;
+    gap:30px;
+
+}
+.unite{display:flex;
+flex-direction: column;
+}
+
+.divide{display:flex;
+flex-direction: column;}
+
+.divide a{font-size:20px;
+color:rgb(31, 31, 250);
+}
+
+.unite a{font-size:20px;
+color:rgb(31, 31, 250);}
