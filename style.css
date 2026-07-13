@@ -361,3 +361,81 @@ font-size:30px;
 font-size:30px;
 padding:20px 10px;
 }
+/* FAQ SECTION*/
+
+.questions{color:rgb(10, 28, 61);
+
+}
+.batman{margin:30px;
+padding:20px 30px;
+background-color:rgb(4, 47, 126);
+}
+.joker{color:white;
+padding:20px;
+font-size:20px;
+}
+
+/*contact section*/
+.band-for-band{text-align:center;
+color:white;
+font-size:30px;
+text-decoration:none;
+padding-top:20px; 
+}
+.band-for{text-align: center;
+color:white;
+font-size:15px;}
+
+.batman summary{color:gold;
+font-size:20px;}
+
+.ben-10{display:grid;
+grid-template-columns:repeat(2,1fr);
+padding:20px;
+gap:10px;
+}
+.questionaire{padding:40px 20px;
+margin:20px;
+width:300px;
+}
+.calculus{margin:20px;
+}
+.intergration{margin:20px;
+}
+.rhinos{text-align: center;
+color:40px;
+font-size:20px;
+margin:20px;
+background-color: rgb(46, 46, 243);
+border-radius:20px;
+padding:20px;
+}
+.large-input{width:100%;
+padding:30px 20px;
+
+}
+
+.merg{display:grid;
+grid-template-columns:repeat(2, 2fr);}
+
+.messages{display:grid;
+grid-row: inherit;
+padding:40px 20px;}
+
+.cereal{padding:20px;
+margin:20px;
+background-color: rgb(39, 39, 211);
+font-size:15px;
+color:white;
+border-radius:10px;
+}
+.waiting{color:white;
+text-align: center;
+font-size:19px;
+padding-top:30px;
+margin:o;}
+.jesus{display:grid;
+grid-template-columns:repeat(2, 2fr);
+width:100px;
+margin:20px;}
+
