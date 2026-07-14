@@ -483,3 +483,11 @@ font-size:18px;
 padding:30px;
 }
 .photos img{padding:15px 30px; }
+@media(max-width:768){
+    nav{width:100%;
+        display:flex;
+    }
+    a{gap:5px;
+        padding:2px;
+    }
+}
