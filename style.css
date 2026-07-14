@@ -369,6 +369,8 @@ padding:20px 10px;
 .batman{margin:30px;
 padding:20px 30px;
 background-color:rgb(4, 47, 126);
+transform:translateY(10px);
+
 }
 .joker{color:white;
 padding:20px;
@@ -433,9 +435,51 @@ border-radius:10px;
 text-align: center;
 font-size:19px;
 padding-top:30px;
-margin:o;}
+margin:0;
+}
+
 .jesus{display:grid;
 grid-template-columns:repeat(2, 2fr);
 width:100px;
-margin:20px;}
+margin:20px;
+}
 
+/*blog section*/
+
+.dragon{text-align:left;
+color:white;
+font-size:40px;
+font-weight:200;
+padding:30px 10px;
+}
+.franklin{border:0.5 solid white;
+background-color:rgb(58, 58, 201);
+box-shadow:rgb(24, 23, 23);
+align-items: center;
+border-radius:10px;
+margin:30px;
+width:300px;
+
+}
+.franklin img{width:200px;
+    padding:30px 30px;
+
+}
+.banana{color:white;
+font-size:18px;
+padding:30px;}
+
+
+/*events section*/
+
+.dragon{text-align:left;
+color:white;
+font-size:40px;
+font-weight:200;
+padding:30px 10px;
+}
+.banana{color:white;
+font-size:18px;
+padding:30px;
+}
+.photos img{padding:15px 30px; }
